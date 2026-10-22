@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Jour1",
+			"path": "../Jour1"
+		},
+		{
+			"name": "Jour2",
+			"path": "."
+		},
+		{
+			"name": "Jour3",
+			"path": "../Jour3"
+		},
+		{
+			"path": "../Jour4"
+		},
+		{
+			"path": "../Jour6"
+		},
+		{
+			"path": "../Jour7-8"
+		}
+	]
+}
